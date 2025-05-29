@@ -9,7 +9,7 @@ This repository contains a vulnerability scan report generated using **Nessus Es
 - **Tool**: Nessus Essentials by Tenable
 - **Format**: HTML
 - **File**: `pc-scan-report.html`
-- **Date of Scan**: *(insert scan date if known)*
+- **Date of Scan**: *(29 May 2025 )*
 
 ## 🔍 What’s Inside
 
